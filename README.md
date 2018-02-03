@@ -38,3 +38,6 @@
 
 >>> (d) The program will show five image to compare. (output_Image_b)
 >>> Original image, Result image, Blur image, Gaussian blur image and Median blur image    
+
+>>> ![output_image_b](https://user-images.githubusercontent.com/28382639/35772790-0175bb64-08f9-11e8-8dfe-0794b11b9dd5.jpg)
+
