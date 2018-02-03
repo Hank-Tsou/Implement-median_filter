@@ -23,6 +23,8 @@
 >>> (d) The program will show the result include original image and result image. 
 	    In the "output_image_a" the first image is original image and then result image with 
 	    filter size = 3, 5 and 7. (output_Image_a)
+	    
+>>> ![output_image_a](https://user-images.githubusercontent.com/28382639/35772786-e736f8e4-08f8-11e8-8bc0-2420ed135d29.jpg)
 
 >> #### (B) Compare with openCV function [2_compare.py + compare_median_filter.py]
 >>> (a) Using the command prompt and direct to the file position. (my example)
