@@ -9,36 +9,19 @@ Input filter size: "MUST" be odd number
 Command line >> python median_filter.py -i input_image.jpg -s 3
 ```
 
-#### (A) How to run the code [median_filter.py]
-	(a) Using the command prompt and direct to the file position. (my example)
->>> <pre> >> [C:\Users\hank\Desktop\Computer Vision\Assignment_1\1-2]
-
->>> (b) input >> "python median_filter.py" to run the code.
->>> <pre> >> [C:\Users\hank\Desktop\Computer Vision\Assignment_1\1-2>python median_filter.py]
-
->>> (c) The program will ask to input the image name and filter size (odd number only), 
->>> if the input number is an even number it will ask to input again. Remember have to 
->>> put '' (single quote) when input the image name => 'image name'
->>> <pre> >> [image name(with .pnh .jpg): 'input_image.jpg']</br> >> [filter size (odd number): 3]
-
->>> (d) The program will show the result include original image and result image. 
-	    In the "output_image_a" the first image is original image and then result image with 
-	    filter size = 3, 5 and 7. (output_Image_a)
+The program will show the result include original image and result image. 
+In the "output_image_a" the first image is original image and then result image with 
+filter size = 3, 5 and 7. 
 	    
 >>> ![output_image_a](https://user-images.githubusercontent.com/28382639/35772786-e736f8e4-08f8-11e8-8bc0-2420ed135d29.jpg)
 
->> #### (B) Compare with openCV function [2_compare.py + compare_median_filter.py]
->>> (a) Using the command prompt and direct to the file position. (my example)
->>> <pre> >> [C:\Users\hank\Desktop\Computer Vision\Assignment_1\1-2]
+## Code
+- [Median Filter Implementation](https://github.com/Hank-Tsou/Implement-median_filter/blob/master/median_filter.py)
 
->>> (b) input >> "python 2_compare.py" to run the code.
->>> <pre> >> [C:\Users\hank\Desktop\Computer Vision\Assignment_1\1-2>python 2_compare.py]
+## License
 
->>> (c) The program will ask to input the filter size (odd number only).
->>> <pre> >> [filter size (odd number): 3]
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
->>> (d) The program will show five image to compare. (output_Image_b)
->>> Original image, Result image, Blur image, Gaussian blur image and Median blur image    
+## Acknowledgments
 
->>> ![output_image_b](https://user-images.githubusercontent.com/28382639/35772790-0175bb64-08f9-11e8-8dfe-0794b11b9dd5.jpg)
-
+* Project from California State Polytechnic University, Pomona, Computer Science, CS-519 Computer Vision
