@@ -1,15 +1,16 @@
 # Median Filter
-#### implement a Median filter and compare to other methods.
-#### 2. Spatial Filter (input image name: input_image.jpg)
+#### Implement a Median filter
 
->> This file include: </br>
->>* Readme_1-2</br>
->>* input image.jpg</br>
->>* (Question 2-a) median_filter.py + output_image_a</br>
->>* (Question 2-b) 2_compare.py and compare_median_filter.py + output_image_b</br>
+### Median Filter (Spatial Filter) 
+```
+Input image: input_image.jpg
+Input filter size: "MUST" be odd number
 
->> #### (A) How to run the code [median_filter.py]
->>> (a) Using the command prompt and direct to the file position. (my example)
+Command line >> python median_filter.py -i input_image.jpg -s 3
+```
+
+#### (A) How to run the code [median_filter.py]
+	(a) Using the command prompt and direct to the file position. (my example)
 >>> <pre> >> [C:\Users\hank\Desktop\Computer Vision\Assignment_1\1-2]
 
 >>> (b) input >> "python median_filter.py" to run the code.
