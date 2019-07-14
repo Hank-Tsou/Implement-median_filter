@@ -13,7 +13,9 @@ The program will show the result include original image and result image. In the
 	    
 ![output_image_a](https://user-images.githubusercontent.com/28382639/35772786-e736f8e4-08f8-11e8-8bc0-2420ed135d29.jpg)
 
-											[goto Opencv-Python Tutorial](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python)
+[Opencv-Python Tutorial](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python)
+
+[Image Filtering](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/4_Image_Filtering)
 
 ## Code
 - [Median Filter Implementation](https://github.com/Hank-Tsou/Implement-median_filter/blob/master/median_filter.py)
