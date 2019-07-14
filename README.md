@@ -13,6 +13,8 @@ The program will show the result include original image and result image. In the
 	    
 ![output_image_a](https://user-images.githubusercontent.com/28382639/35772786-e736f8e4-08f8-11e8-8bc0-2420ed135d29.jpg)
 
+[goto Opencv-Python Tutorial](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python)
+
 ## Code
 - [Median Filter Implementation](https://github.com/Hank-Tsou/Implement-median_filter/blob/master/median_filter.py)
 
@@ -22,4 +24,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* Arther: Hank Tsou
 * Project from California State Polytechnic University, Pomona, Computer Science, CS-519 Computer Vision
