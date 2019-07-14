@@ -5,7 +5,7 @@ This project is trying to implement a Median filter
 ### Median Filter (Spatial Filter) 
 ```
 Input image: input_image.jpg
-Input filter size: "MUST" be odd number
+Input filter size: " Must " be odd number
 
 Command line >> python median_filter.py -i input_image.jpg -s 3
 ```
