@@ -1,6 +1,7 @@
 # Median Filter
-#### This project is trying to implement a Median filter
-
+```
+This project is trying to implement a Median filter
+```
 ### Median Filter (Spatial Filter) 
 ```
 Input image: input_image.jpg
