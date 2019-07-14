@@ -28,4 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Author: Hank Tsou
+* Contact: hank630280888@gmail.com
 * Project from California State Polytechnic University, Pomona, Computer Science, CS-519 Computer Vision
