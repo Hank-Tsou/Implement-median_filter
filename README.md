@@ -1,5 +1,5 @@
 # Median Filter
-#### Implement a Median filter
+#### This project is trying to implement a Median filter
 
 ### Median Filter (Spatial Filter) 
 ```
@@ -9,11 +9,9 @@ Input filter size: "MUST" be odd number
 Command line >> python median_filter.py -i input_image.jpg -s 3
 ```
 
-The program will show the result include original image and result image. 
-In the "output_image_a" the first image is original image and then result image with 
-filter size = 3, 5 and 7. 
+The program will show the result include original image and result image. In the figures below the first image is original image and then result image with filter size = 3, 5 and 7. 
 	    
->>> ![output_image_a](https://user-images.githubusercontent.com/28382639/35772786-e736f8e4-08f8-11e8-8bc0-2420ed135d29.jpg)
+![output_image_a](https://user-images.githubusercontent.com/28382639/35772786-e736f8e4-08f8-11e8-8bc0-2420ed135d29.jpg)
 
 ## Code
 - [Median Filter Implementation](https://github.com/Hank-Tsou/Implement-median_filter/blob/master/median_filter.py)
